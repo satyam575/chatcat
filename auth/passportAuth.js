@@ -22,7 +22,7 @@ module.exports = function(passport,facebookStrategy,config,mongoose){
     passport.use(new facebookStrategy({
         clientID:config.fb.appID,
         //clientSecret:config.fb.appSecret ,
-        clientSecret:"2371d89d9b29478b35a0fe2ef4f02813",
+        clientSecret:"YOUR_SECRET",
         callbackURL:config.fb.callbackURL,
         profileFields:['id','displayName','photos']
     },function(accessToken,refreshToken,profile,done){

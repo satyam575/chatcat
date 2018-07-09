@@ -1,9 +1,9 @@
 {
-    "dbURL": "mongodb://satyam575:9897642152ss@ds127961.mlab.com:27961/chatcat",
+    "dbURL": "",
     "sessionSecret":"sdjgfljardghjfdhgbjsdnfhlksnf",
     "fb":{
-        "appID":"1868490643214617",
-        "appSeret":"2371d89d9b29478b35a0fe2ef4f02813",
+        "appID":"",
+        "appSeret":"",
         "callbackURL":"https://absurdchatrooms.herokuapp.com/auth/facebook/callback"
     },
     "host" : "https://absurdchatrooms.herokuapp.com"

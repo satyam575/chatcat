@@ -6,5 +6,5 @@
         "appSeret":"2371d89d9b29478b35a0fe2ef4f02813",
         "callbackURL":"https://absurdchatrooms.herokuapp.com/auth/facebook/callback"
     },
-    "host" : "https://absurdchatrooms.herokuapp.com/"
+    "host" : "https://absurdchatrooms.herokuapp.com"
 }

@@ -1,0 +1,27 @@
+{
+  "name": "chatroom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines":{
+    "node":"v8.11.3"
+  },
+  "author": "satyam singhal",
+  "license": "ISC",
+  "dependencies": {
+    "connect-mongo": "^2.0.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "hogan-express": "^0.5.2",
+    "jshint": "^2.9.5",
+    "mongoose": "^5.2.1",
+    "passport": "^0.4.0",
+    "passport-facebook": "^2.1.1",
+    "save": "^2.3.2",
+    "socket.io": "^2.1.1"
+  }
+}

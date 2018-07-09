@@ -1,0 +1,10 @@
+{
+    "dbURL": "mongodb://satyam575:9897642152ss@ds127961.mlab.com:27961/chatcat",
+    "sessionSecret":"sdjgfljardghjfdhgbjsdnfhlksnf",
+    "fb":{
+        "appID":"1868490643214617",
+        "appSeret":"2371d89d9b29478b35a0fe2ef4f02813",
+        "callbackURL":"http://localhost:3000/auth/facebook/callback"
+    },
+    "host" : ""
+}
